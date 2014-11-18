@@ -1,5 +1,6 @@
 Kendo UI Core Mobile App<br/>(formerly the Kendo UI Mobile app template)
 ====================
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-kendo-ui-core-widgets" target="_blank"><img src="http://docs.telerik.com/platform/appbuilder/sample-apps/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>
 
 This sample (formerly the Kendo UI Mobile app template) shows how to use Telerik AppBuilder and the mobile widgets from Kendo UI Core to develop a hybrid mobile app. The app provides a welcome screen, a dummy login form, geolocation implementation and data binding.
 
